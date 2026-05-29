@@ -1,0 +1,8 @@
+node_modules
+dist
+.DS_Store
+*.log
+
+# raw survey data must never be published — only the encrypted data.enc ships
+*.xlsx
+*.xls
